@@ -738,6 +738,7 @@ dependencies = [
  "diesel",
  "serde",
  "thiserror",
+ "tokio",
  "warp",
 ]
 
