@@ -7,4 +7,5 @@ edition = "2021"
 
 [dependencies]
 serde = "1.0.144"
+thiserror = "1.0.35"
 warp = "0.3.2"
